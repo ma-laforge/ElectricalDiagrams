@@ -8,6 +8,8 @@ This repository includes symbol libraries to generate electrical schematics.
 
 ### Electrical Symbols
 
+<img src="img/Symbols_Electrical.png">
+
  - [Symbols\_Electrical.odg](Symbols_Electrical.odg): OpenDocument Graphics (ex: OpenOffice/LibreOffice).
 
 ## Suggested Configuration
