@@ -19,7 +19,7 @@ This repository provides symbol libraries to generate electrical/electronic circ
 
 ### LibreOffice 4.2
 
-To ease the process of positionning & connecting schematic symbols, it is highly suggested you modify your grid settings by following these steps:
+To ease the process of positionning & connecting schematic symbols, it is highly suggested you modify the grid settings by following these steps:
 
  1. Create a new drawing.
  1. In `Tools|Options...|LibreOffice Draw|General`:
