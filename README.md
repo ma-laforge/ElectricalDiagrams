@@ -1,13 +1,23 @@
 <!-- Reference-style links to make tables & lists more readable -->
-[OpenOffice]: https://www.openoffice.org/
-[LibreOffice]: https://www.libreoffice.org/discover/libreoffice/
+[OpenOffice]: <https://www.openoffice.org>
+[LibreOffice]: <https://www.libreoffice.org>
+[Inkscape]: <https://inkscape.org>
+[inkscapeCircuitSymbols]: <https://github.com/fsmMLK/inkscapeCircuitSymbols>
+[inkscapeLogicGates]: <https://github.com/fsmMLK/inkscapeLogicGates>
 
 
 # ElectricalDiagrams: Publication-quality circuit schematics
 
 ## Description
-
 This repository provides symbol libraries to generate electrical/electronic circuit schematics. The libraries are stored in simple .odg (Open Document Graphic) files, which are compatible with programs supporting the Open Document Format (ODF) standard (ex: [OpenOffice], [LibreOffice]).
+
+## :warning: More advanced alternative
+A more advanced alternative with even higher quality, configurable symbols is available in the form of an [Inkscape] plugin. I do not know the author, but I like the approach taken:
+
+ - [inkscapeCircuitSymbols &#x21AA;][inkscapeCircuitSymbols]: Analog components (`R`, `L`, `C`, transistors, sources, etc).
+ - [inkscapeLogicGates &#x21AA;][inkscapeLogicGates]: A seperate plugin, for some reason.
+ - Also annotates the symbols (voltage, current flow, etc).
+ - Issue: &#x1F615; Symbols are large relative to typical use case in a document (default scale). Is it possible to make them smaller by default?
 
 ## Libraries
 
